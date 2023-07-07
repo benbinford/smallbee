@@ -1,2 +1,3 @@
 # smallbee
-Puzzle solver for The New York Times Spelling Bee Puzzle
+
+Toy smalltalk implementation for the JVM

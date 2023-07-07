@@ -2,6 +2,9 @@
 *.changes
 *.chg
 
+.DS_Store
+**/.DS_Store
+
 # system image
 *.image
 *.img7
@@ -29,3 +32,11 @@ SqueakDebug.log
 # Metacello-github cache
 /github-cache
 github-*.zip
+
+target
+
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
